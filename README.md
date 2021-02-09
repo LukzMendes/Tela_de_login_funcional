@@ -1,8 +1,10 @@
 <h1>Tela_de_login_funcional </h1>
 
-<h4> Tela de login e cadastro usando PHP,banco de dados local 
- # <i>Reconhecendo e sinalizando e mail já existente
- # Senhas não conferem
+ # <h4><i> Tela de login e cadastro usando PHP,banco de dados local<br> 
+ # Reconhecendo e sinalizando e mail já existente<br>
+ # Senhas não conferem<br>
+
+
  # Ainda não possui cadastro </i>  </h4>
 
 
