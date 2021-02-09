@@ -1,6 +1,9 @@
 <h1>Tela_de_login_funcional </h1>
 
-<h4> Tela de login feito com JavaScript, PHP, todo funcional com banco de dados local (MySQL) </h4>
+<h4> Tela de login e cadastro usando PHP,banco de dados local 
+ # <i>Reconhecendo e sinalizando e mail já existente
+ # Senhas não conferem
+ # Ainda não possui cadastro </i>  </h4>
 
 
 <h5> Tela de login: OK 
