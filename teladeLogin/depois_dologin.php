@@ -7,5 +7,5 @@
   }
 ?>
 
-<h1>Comi o cu de quem ta lendo!!</h1>
+<h1>Login efetuado com sucesso!!</h1>
 <a href="sair.php">Sair</a>
